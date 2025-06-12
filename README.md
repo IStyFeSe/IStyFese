@@ -1,5 +1,9 @@
 # 💫 About Me:
-QQ! I'm engineer, CV and ML user.<br>I research about new technologies every day.<br>Work on: Python, C++.<br>Try to do projects very often
+### Computer Vision & ML Systems Engineer  
+**Specializing in:**  
+🔍 Neural Networks & Deep Learning  
+🧠 End-to-End ML Systems  
+📊 Data Science & Analytics 
 
 
 ## 🌐 Socials:
